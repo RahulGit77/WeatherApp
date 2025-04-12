@@ -67,6 +67,11 @@ h1 {
   background: #ee1782;
   transition: 0.2s ease;
 }
+.weather-input button:hover{
+  background-color: lightblue;
+  color: darkblue;
+  transition: 0.3s ease-in-out;
+}
 .weather-input .search-btn:hover {
   background: #2c52ed;
 }
